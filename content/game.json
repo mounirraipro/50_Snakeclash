@@ -1,0 +1,477 @@
+{
+  "name": "Snake Clash",
+  "domain": "snakeclash.site",
+  "slug": "snakeclash",
+  "genre": "Arcade",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://www.pog.com/games/snake_clash",
+  "embedSource": "Pog - Snake Clash",
+  "seo": {
+    "title": "Snake Clash Online - Free Browser Snake Battle Game",
+    "description": "Play Snake Clash online for free. Steer, grow, dodge dangerous tiles, and chase a better score in a fast browser snake battle with no download.",
+    "keywords": [
+      "Snake Clash",
+      "Snake Clash online",
+      "free snake game",
+      "browser snake game",
+      "arcade game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Snake Clash online",
+    "heroSubtitle": "Steer a growing snake through quick obstacle runs, avoid costly tiles, and build a better score in every round.",
+    "lede": "Snake Clash turns classic snake movement into a fast browser challenge about timing, clean steering, and smart risk-taking.",
+    "stats": [
+      {
+        "value": "2 min",
+        "label": "Quick Rounds"
+      },
+      {
+        "value": "1 tap",
+        "label": "Simple Controls"
+      },
+      {
+        "value": "0",
+        "label": "Downloads"
+      },
+      {
+        "value": "100%",
+        "label": "Free Play"
+      }
+    ],
+    "about": {
+      "kicker": "What is Snake Clash?",
+      "headline": "Fast snake action with a tactical edge.",
+      "paragraph1": "Snake Clash is built for short, focused sessions. You guide your snake left and right, collect length, and decide when it is worth breaking through tiles for points.",
+      "paragraph2": "The rules are easy to understand, but every round asks you to balance speed with survival. A clean path usually beats a rushed move."
+    },
+    "howToPlay": {
+      "headline": "Guide, grow, and avoid bad tiles.",
+      "subheading": "Use simple movement and quick decisions to stay alive longer."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Start from the Play page and let the browser version load in the local game frame."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Lane",
+        "desc": "Watch the tiles ahead before you commit to a side. The safest path can change quickly."
+      },
+      {
+        "icon": "refresh",
+        "title": "Steer Smoothly",
+        "desc": "Swipe or drag left and right with small movements instead of sharp overcorrections."
+      },
+      {
+        "icon": "target",
+        "title": "Pick Your Risks",
+        "desc": "Breaking tiles can help your score, but bad choices can shorten your snake at the wrong moment."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Finish Strong",
+        "desc": "Stay calm near the end of a run and protect the length you have earned."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Beginner",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Focus",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Challenge",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Strategy",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Mastery",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "Open the game and start playing without installing an app or creating an account."
+      },
+      {
+        "icon": "target",
+        "title": "Fast Score Chasing",
+        "desc": "Short rounds make it easy to retry, improve, and learn cleaner routes."
+      },
+      {
+        "icon": "device",
+        "title": "Touch and Mouse Friendly",
+        "desc": "The simple left-right control style works naturally on desktop and mobile browsers."
+      },
+      {
+        "icon": "shield",
+        "title": "Family-Safe Format",
+        "desc": "No chat, no social posting, and no user-generated content in the site experience."
+      },
+      {
+        "icon": "zap",
+        "title": "Quick Reactions",
+        "desc": "Obstacles and tile choices keep each run active without becoming complicated."
+      },
+      {
+        "icon": "trophy",
+        "title": "Replay Value",
+        "desc": "Every attempt gives you a chance to take a smarter route and beat your last score."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Snake Clash?",
+        "a": "Snake Clash turns classic snake movement into a fast browser challenge about timing, clean steering, and smart risk-taking."
+      },
+      {
+        "q": "Is Snake Clash free?",
+        "a": "Yes. Snake Clash is free to play through this browser site."
+      },
+      {
+        "q": "Do I need to download Snake Clash?",
+        "a": "No download is required. Open the Play page and the game loads in your browser."
+      },
+      {
+        "q": "Does Snake Clash work on mobile?",
+        "a": "The game is designed for browser play and supports common desktop and mobile controls when the embedded version is available."
+      },
+      {
+        "q": "Is Snake Clash safe for kids?",
+        "a": "The site experience has no chat, no account requirement, and no user-generated content. Parents should still supervise general web use."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is required to play from this site."
+      }
+    ],
+    "cta": {
+      "headline": "Start a quick game session.",
+      "subtext": "Open the Play page, load the game, and enjoy a free browser round."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Snake Clash",
+        "desc": "Visit the Play page and wait for the local game wrapper to load."
+      },
+      {
+        "title": "Learn the Goal",
+        "desc": "Read the on-screen objective and try one relaxed practice round."
+      },
+      {
+        "title": "Play and Improve",
+        "desc": "Use each attempt to make cleaner choices and build a better result."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "Is Snake Clash really free?",
+        "a": "Yes. Snake Clash is free to play through this browser page."
+      },
+      {
+        "q": "What devices can I use?",
+        "a": "Use a modern desktop, tablet, or mobile browser. Controls may vary slightly by device."
+      },
+      {
+        "q": "How does the game load?",
+        "a": "The Play page points to a local /game/index.html wrapper, which embeds the external game source."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "No. The game needs an internet connection because it loads from an external playable source."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress depends on the embedded game. This site does not require an account or cloud profile."
+      },
+      {
+        "q": "Is Snake Clash safe for children?",
+        "a": "The page avoids chat, social features, and user uploads. Parents should apply normal web supervision."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No. Open the Play page and start without signup."
+      },
+      {
+        "q": "Why use the local game page?",
+        "a": "The local wrapper keeps the site route consistent while recording the original external game source separately."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Snake Clash is a free browser game with simple controls and clear goals. Start slowly, learn what each move changes, and improve through short practice sessions.",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Go to the Play page and let the embedded game finish loading."
+      },
+      {
+        "title": "Understand the Goal",
+        "desc": "Check the current objective before making your first move."
+      },
+      {
+        "title": "Make Your First Move",
+        "desc": "Use mouse, touch, or swipe controls as prompted by the game."
+      }
+    ],
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "Snake Clash rewards controlled steering. Grow when you can, avoid dangerous tiles, and choose point opportunities only when your snake has enough length to survive the cost."
+    },
+    "difficultyProgression": "Early runs teach movement and spacing. Later attempts become more strategic as you learn which lanes are worth taking and which tiles are traps.",
+    "tips": [
+      {
+        "title": "Keep your movement small",
+        "desc": "Wide swipes can push you into a bad lane. Small corrections give you more control."
+      },
+      {
+        "title": "Look past the first tile",
+        "desc": "Check what comes after an opening before you aim for it."
+      },
+      {
+        "title": "Protect your length",
+        "desc": "A longer snake gives you more options, so avoid spending it on low-value tiles."
+      },
+      {
+        "title": "Reset quickly",
+        "desc": "Short rounds are ideal for learning. Treat every mistake as route practice."
+      },
+      {
+        "title": "Stay centered when unsure",
+        "desc": "Holding a middle lane often keeps more escape options open."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides and Strategy",
+    "subheading": "Useful articles to help you understand Snake Clash and play with better habits.",
+    "introParagraph": "Read practical guides about arcade strategy, route reading, and safe score improvement. Each article is written for clarity, safety, and real player usefulness.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Snake Clash: A Practical Beginner Guide",
+        "excerpt": "Learn the basics of Snake Clash, what to look for first, and how to enjoy your first session without confusion.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "map",
+        "sections": [
+          {
+            "heading": "What Is Snake Clash?",
+            "paragraphs": [
+              "Snake Clash is a free browser game designed for quick, accessible play. It opens directly on the Play page, so you do not need an app download or account setup.",
+              "The game works best when you take a moment to understand the current goal before rushing into your first move. That simple habit makes the experience smoother from the start."
+            ]
+          },
+          {
+            "heading": "How to Start",
+            "paragraphs": [
+              "Open the Play page, wait for the game frame to load, and follow the on-screen prompt. Most controls use a mouse, swipe, or tap depending on your device.",
+              "If the game feels busy at first, play one relaxed round just to learn the controls. Your second attempt will usually feel much clearer."
+            ]
+          },
+          {
+            "heading": "Your First Session",
+            "paragraphs": [
+              "Focus on understanding the objective rather than chasing a perfect score. Browser games are easiest to learn when you experiment safely and notice what each action changes.",
+              "After a few minutes, you will understand the rhythm of Snake Clash and can start improving your decisions."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Head to the Play page whenever you want a short, no-download game session."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Snake Clash Tips That Help You Play Better",
+        "excerpt": "Simple, useful habits for improving at Snake Clash without making the game feel complicated.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-05",
+        "icon": "lightbulb",
+        "sections": [
+          {
+            "heading": "Start with the Objective",
+            "paragraphs": [
+              "Before making a move, check what the game is asking you to do. A clear objective helps you avoid random actions and wasted time.",
+              "This is especially useful in casual games where the next task can change from one moment to another."
+            ]
+          },
+          {
+            "heading": "Use Short Practice Loops",
+            "paragraphs": [
+              "Short sessions help you notice patterns without getting tired. Play, review what went wrong, then try again with one small adjustment.",
+              "This approach works well for arcade strategy, route reading, and safe score improvement."
+            ]
+          },
+          {
+            "heading": "Keep Controls Smooth",
+            "paragraphs": [
+              "Most mistakes come from overreacting. Make smaller inputs, watch the result, and adjust steadily.",
+              "Clean control is more reliable than frantic movement, especially on mobile screens."
+            ]
+          },
+          {
+            "heading": "Improve One Skill at a Time",
+            "paragraphs": [
+              "Pick one habit to practice in each session. It could be reading the board, timing moves, or slowing down before a tricky section.",
+              "Small improvements add up quickly when the game is easy to restart."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "safe-browser-play",
+        "title": "Is Snake Clash a Good Browser Game for Families?",
+        "excerpt": "A parent-friendly look at the site experience, controls, and healthy play habits.",
+        "category": "Family",
+        "readTime": "5 min read",
+        "date": "2026-01-10",
+        "icon": "shield",
+        "sections": [
+          {
+            "heading": "Simple Access",
+            "paragraphs": [
+              "Snake Clash runs in the browser and does not require a player account on this site. That makes it easy to start and easy to stop.",
+              "The site experience is focused on the game itself, with no chat room or social posting flow."
+            ]
+          },
+          {
+            "heading": "Healthy Session Length",
+            "paragraphs": [
+              "Short play sessions are usually best. A clear time limit before starting helps younger players enjoy the game without turning it into an argument.",
+              "For many families, ten to twenty minutes is enough for a fun break."
+            ]
+          },
+          {
+            "heading": "What Players Practice",
+            "paragraphs": [
+              "Casual browser games can support focus, patience, pattern recognition, and hand-eye coordination when used in moderation.",
+              "The best value comes from active play: noticing objectives, making choices, and learning from mistakes."
+            ]
+          },
+          {
+            "heading": "Practical Safety Notes",
+            "paragraphs": [
+              "As with any web game, keep children on the intended page and use normal browser or device supervision settings when needed.",
+              "No personal information is required to play through this site."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Snake Clash Without Overthinking It",
+        "excerpt": "A focused improvement guide for players who want smoother sessions and better results.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-15",
+        "icon": "chart",
+        "sections": [
+          {
+            "heading": "Notice Repeated Situations",
+            "paragraphs": [
+              "Most games repeat patterns. When you recognize a familiar setup, you can respond calmly instead of guessing.",
+              "In Snake Clash, this means watching how each objective or obstacle changes your best next move."
+            ]
+          },
+          {
+            "heading": "Slow Down at Decision Points",
+            "paragraphs": [
+              "The most important moment is usually right before a mistake. Pause briefly when the screen gives you multiple choices.",
+              "That pause can prevent a rushed move and often leads to a cleaner result."
+            ]
+          },
+          {
+            "heading": "Review One Mistake",
+            "paragraphs": [
+              "After a failed attempt, identify one thing that caused it. Do not review everything at once.",
+              "Fixing one repeated mistake is more useful than trying to play perfectly."
+            ]
+          },
+          {
+            "heading": "Build a Comfortable Rhythm",
+            "paragraphs": [
+              "Play at a pace you can control. Speed becomes useful only after the basic decisions feel natural.",
+              "A steady rhythm makes browser games more relaxing and usually improves performance too."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "why-casual-games-work",
+        "title": "Why Snake Clash Works Well as a Quick Break",
+        "excerpt": "How simple browser games can offer a useful reset between tasks.",
+        "category": "Lifestyle",
+        "readTime": "5 min read",
+        "date": "2026-01-20",
+        "icon": "spark",
+        "sections": [
+          {
+            "heading": "Low Friction Matters",
+            "paragraphs": [
+              "A good quick-break game should open fast, explain itself through play, and avoid unnecessary setup.",
+              "Snake Clash fits that pattern because the Play page keeps the path to the game straightforward."
+            ]
+          },
+          {
+            "heading": "Active Attention",
+            "paragraphs": [
+              "Unlike passive scrolling, a light game asks you to make choices. That can feel more refreshing because your attention has a clear target.",
+              "The key is moderation: play a short session, then return to the next task."
+            ]
+          },
+          {
+            "heading": "Easy Stopping Points",
+            "paragraphs": [
+              "Games with short rounds or clear objectives are easier to pause. You can finish a small goal without feeling locked into a long session.",
+              "That makes Snake Clash a practical option for a brief mental reset."
+            ]
+          },
+          {
+            "heading": "A Better Break Habit",
+            "paragraphs": [
+              "Set a natural endpoint before starting: one picture, one round, or one completed objective.",
+              "That keeps play intentional and helps the game stay enjoyable."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
