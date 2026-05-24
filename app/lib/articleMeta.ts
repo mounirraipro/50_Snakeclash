@@ -310,4 +310,25 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+
+    'snake-clash-route-reading-guide': {
+        slug: 'snake-clash-route-reading-guide',
+        title: 'Snake Clash Route Reading Guide: How to Choose Safer Lanes',
+        description: 'A practical Snake Clash guide covering lane reading, length management, obstacle choices, and calmer movement for better runs.',
+        datePublished: '2026-05-24',
+        dateModified: '2026-05-24',
+        keywords: ['Snake Clash strategy', 'Snake Clash tips', 'snake game guide', 'route reading arcade game'],
+        category: 'Strategy',
+        readTime: '8 min read',
+    },
+    'classic-snake-games-and-modern-browser-runs': {
+        slug: 'classic-snake-games-and-modern-browser-runs',
+        title: 'From Classic Snake to Snake Clash: Why the Formula Still Works',
+        description: 'Explore why classic snake gameplay remains popular, how Snake Clash updates the formula, and why simple browser arcade games still feel fresh.',
+        datePublished: '2026-05-24',
+        dateModified: '2026-05-24',
+        keywords: ['classic snake games', 'Snake Clash history', 'browser snake game', 'arcade game design'],
+        category: 'History',
+        readTime: '8 min read',
+    },
 };
